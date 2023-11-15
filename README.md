@@ -2,7 +2,7 @@
 
 # 💡Sobre o projeto
 
-O Projeto é um trabalho desenvolvido pelo aluno Danielson Braga Alves da universidade UFERSA que veio junto a mim pedir ajuda para codar a aplicação.
+O Projeto é um trabalho desenvolvido pelo aluno Danielson Braga Alves estudando de Eng. Mecanica da UFERSA que veio junto a mim pedir ajuda para codar a aplicação.
 
 A aplicação deve receber como entrada os dados transmitidos pelo Arduino que está ligado a uma máquina de vibrações,
 onde através do seu sensores irá captar as vibrações e transformar em dados para serem análisados.
