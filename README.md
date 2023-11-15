@@ -11,7 +11,7 @@ No geral a captação de dados foi um sucesso, mas é necessario ainda a otimiza
 transmitido pelo Arduino e manter maior precisões.
 
 ## 📷Foto
-![Web 1](https://github.com/edu-doc/MontadorAssemblyMipsPython/blob/main/fotos/pg1.png)
+![Web 1](https://github.com/edu-doc/Arduino/blob/main/IMG.jpg)
 
 
 # 💻Tecnologias utilizadas
