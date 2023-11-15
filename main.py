@@ -27,7 +27,7 @@ def atualizar_grafico():
 
 
 # Inicializa a comunicação serial com o Arduino
-ser = serial.Serial('COM5', 9600)  # Substitua 'COM3' pela porta serial apropriada
+ser = serial.Serial('COM5', 9600)  # Substitua 'COM5' pela porta serial apropriada
 
 # Inicializa listas vazias para armazenar os dados
 dados_tempo = []
